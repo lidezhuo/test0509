@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  border: 2px solid darkgreen;
+  list-style: none;
+}
+ul li {
+  line-height: 40px;
+}
+.border{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid;
+}
+::-moz-placeholder{color: red;}
+
+
+/*# sourceMappingURL=index.css.map */
